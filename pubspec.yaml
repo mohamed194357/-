@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.7.0
+  connectivity_plus: ^6.0.3
